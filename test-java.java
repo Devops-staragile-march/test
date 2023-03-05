@@ -4,5 +4,3 @@ devops
 java
 .net 
 
-ansible 
-testing 
